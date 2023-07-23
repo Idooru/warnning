@@ -1,0 +1,21 @@
+#horror > h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 450px;
+  font-size: 400%;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 0, 0);
+}
+
+#horror-image {
+  background: url("이미지_파일_경로.jpg") no-repeat center fixed;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  height: 98.564vh;
+}
+
+.invisible {
+  display: none;
+}

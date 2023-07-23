@@ -1,0 +1,45 @@
+#fbi-content {
+  display: none;
+  margin-top: 50px;
+}
+
+.warning {
+  background-color: red;
+  color: white;
+  border: 3px solid black;
+  text-align: center;
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+  font-size: 20px;
+  border: none;
+  background-color: black;
+  padding: 30px;
+}
+
+.press {
+  color: aquamarine;
+  font-weight: 800;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.fbi {
+  color: red;
+  font-size: 25px;
+}
+
+.count {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 170px;
+  margin-right: 170px;
+}
