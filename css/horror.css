@@ -9,11 +9,13 @@
 }
 
 #horror-image {
-  background: url("이미지_파일_경로.jpg") no-repeat center fixed;
-  justify-content: center;
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 250px;
+  background-image: url("https://img.freepik.com/free-photo/adorable-kitty-looking-like-it-want-to-hunt_23-2149167099.jpg");
   background-size: cover;
-  background-position: center;
-  height: 98.564vh;
+  background-repeat: no-repeat;
 }
 
 .invisible {
